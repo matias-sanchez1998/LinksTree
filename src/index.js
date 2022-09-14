@@ -44,7 +44,7 @@ const data = {
       },
       {
         name: "CONTACTO POR EMAIL",
-        url: "mailto:Matias+sanchezmatias419@gmail.com?Subject=Contacto",
+        url: "mailto:sanchezmatias419@gmail.com?Subject=Contacto",
         color: "lime",
         emoji: "📩",
       },
